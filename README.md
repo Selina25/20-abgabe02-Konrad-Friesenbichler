@@ -1,1 +1,1 @@
-# 20-abgabe02-Konrad-Friesenbichler
+# 20-Abgabe02-Konrad-Friesenbichler
