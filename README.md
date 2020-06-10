@@ -12,6 +12,12 @@ shows the tasks we are planning to do in the course of our project:
 - [x] Copy the project into the repository
 - [x] Write initial description and task-list of the project into the ReadMe.md 
 - [ ] Adjust the pom.xml
-  - [x] Old developers deleted 
-  - [x] First developer added
-  - [ ] Second devolper added 
+  - [x] delete old developers  
+  - [x] add first developer 
+  - [x] add git address
+  - [ ] add second devolper 
+  - [ ] include avatar pictures
+- [ ] Check Maven targets
+- [ ] Find Errors
+- [ ] Correct Errors
+- [ ] add new implementation with Generics
