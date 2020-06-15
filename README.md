@@ -18,6 +18,6 @@ shows the tasks we are planning to do in the course of our project:
   - [ ] add second devolper 
   - [ ] include avatar pictures
 - [ ] Check Maven targets
-- [ ] Find Errors
-- [ ] Correct Errors
+- [x] Find Errors
+- [x] Correct Errors
 - [ ] add new implementation with Generics
