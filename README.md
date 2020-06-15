@@ -20,4 +20,4 @@ shows the tasks we are planning to do in the course of our project:
 - [ ] Check Maven targets
 - [x] Find Errors
 - [x] Correct Errors
-- [ ] add new implementation with Generics
+- [x] add new implementation with Generics
