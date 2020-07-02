@@ -21,7 +21,7 @@ shows the tasks we are planning to do in the course of our project:
 - [x] Find Errors
 - [x] Correct Errors
 - [x] Add new implementation with Generics
-- [ ] Add and implement Testclass for StringQueue
+- [x] Add and implement Testclass for StringQueue
 - [ ] Add and implement Testclass for GenericQueue
 - [ ] Add and implement additional Testclass for GenericQueue (optional)
 - [ ] Create maven site documentation
