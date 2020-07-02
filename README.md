@@ -26,8 +26,8 @@ shows the tasks we are planning to do in the course of our project:
 - [x] Add and implement additional Testclass for GenericQueue (optional)
 - [ ] Create maven site documentation
   - [ ] javadoc as maven site export
-  - [ ] add manual content
-  - [ ] add code-snippets/images
-  - [ ] add additional manual content (optional)
+  - [x] add manual content
+  - [x] add code-snippets/images
+  - [x] add additional manual content (optional)
 - [ ] Finish Lab-Report
  
