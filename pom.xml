@@ -23,7 +23,7 @@
       </roles>
       <timezone>Europe/Vienna</timezone>
       <properties>
-        <picUrl></picUrl>
+        <picUrl>images\kitty.JPG</picUrl>
       </properties>
     </developer>
     <developer>
@@ -37,12 +37,10 @@
       </roles>
       <timezone>Europe/Vienna</timezone>
       <properties>
-        <picUrl></picUrl>
+        <picUrl>images/dog.jpg</picUrl>
       </properties>
     </developer>
   </developers>
-
-
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
