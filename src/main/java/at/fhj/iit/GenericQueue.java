@@ -91,4 +91,8 @@ public class GenericQueue<T>{
 
         return element;
     }
+
+    public int getMaxSize() {
+        return maxSize;
+    }
 }
