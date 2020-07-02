@@ -17,7 +17,7 @@ shows the tasks we are planning to do in the course of our project:
   - [x] add git address
   - [x] add second developer 
   - [ ] include avatar pictures
-- [ ] Check Maven targets
+- [x] Check Maven targets
 - [x] Find Errors
 - [x] Correct Errors
 - [x] Add new implementation with Generics
