@@ -1,0 +1,39 @@
+<project name="Queue">
+	<bannerLeft>
+		<name>Project Name</name>
+		<src>https://maven.apache.org/images/apache-maven-project-2.png</src>
+		<href>https://maven.apache.org/</href>
+	</bannerLeft>
+	 
+	<bannerRight>
+		<src>https://maven.apache.org/images/maven-logo-2.gif</src>
+	</bannerRight>
+	
+	<publishDate position="right"/>
+	<version position="right"/>
+	<poweredBy>
+	<logo name="Maven" href="https://maven.apache.org/"
+		  img="https://maven.apache.org/images/logos/maven-feather.png"/>
+	</poweredBy>
+	
+	<body>
+	<!-- http://maven.apache.org/doxia/doxia-sitetools/doxia-decoration-model/decoration.html 
+    <item collapse=.. ref=.. name=.. href="README" img=.. position=.. alt=.. border=.. width=.. height=.. target=.. title=.. >
+    -->
+		<menu name="Overview">
+			<item href="project-info.html" name="Project Information">
+                <item href="dependencies.html" name="Dependencies" />
+                <item href="dependency-info.html" name="Dependency Information" />
+                <item href="plugin-management.html" name="Plugin Management" />
+                <item href="plugins.html" name="Plugins" />
+                <item href="summary.html" name="Summary" />
+                <item href="team.html" name="Team" />
+			</item>
+			<item name="Basic Questions" href="MavenQuestions.html"/>
+			<item name="Optional Questions" href="MavenQuestionsOptional.html"/>
+		  
+		</menu>
+		
+		<menu ref="modules" />
+  </body>
+</project>
