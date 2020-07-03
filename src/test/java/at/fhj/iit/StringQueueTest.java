@@ -65,7 +65,7 @@ class StringQueueTest {
 
     /**
      * checking if the first element will be the expected value
-     * here: no value -> Exception expected
+     * here: with no value an Exception expected
      */
     @Test
     @DisplayName("Testing method peek 2")

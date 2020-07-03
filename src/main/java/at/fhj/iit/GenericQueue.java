@@ -98,6 +98,10 @@ public class GenericQueue<T>{
         return element;
     }
 
+    /**
+     * The maxsize which was set in the constructor can be called with this methode
+     * @return returns the maxsize
+     */
     public int getMaxSize() {
         return maxSize;
     }
