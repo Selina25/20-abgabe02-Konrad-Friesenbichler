@@ -1,4 +1,4 @@
-<project name="Queue">
+<project name="Queue - Konrad Friesenbichler">
 	<bannerLeft>
 		<name>Project Name</name>
 		<src>https://maven.apache.org/images/apache-maven-project-2.png</src>
@@ -17,10 +17,8 @@
 	</poweredBy>
 	
 	<body>
-	<!-- http://maven.apache.org/doxia/doxia-sitetools/doxia-decoration-model/decoration.html 
-    <item collapse=.. ref=.. name=.. href="README" img=.. position=.. alt=.. border=.. width=.. height=.. target=.. title=.. >
-    -->
 		<menu name="Overview">
+			<item name="Introduction" href="index.html"></item>
 			<item href="project-info.html" name="Project Information">
                 <item href="dependencies.html" name="Dependencies" />
                 <item href="dependency-info.html" name="Dependency Information" />
@@ -31,7 +29,8 @@
 			</item>
 			<item name="Basic Questions" href="MavenQuestions.html"/>
 			<item name="Optional Questions" href="MavenQuestionsOptional.html"/>
-		  
+			<item name="JavaDoc" href="testapidocs/index.html"/>
+			<item name="TestJavaDoc" href="apidocs/index.html"/>
 		</menu>
 		
 		<menu ref="modules" />
