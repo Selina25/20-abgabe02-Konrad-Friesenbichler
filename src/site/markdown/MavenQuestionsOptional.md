@@ -7,7 +7,7 @@ Auch verwenden graphische Benutzeroberflächen eine Queue indem sie Maus- und Ta
 und diese nacheinander an die jeweiligen Prozesse weiterleiten.
 
 ###Was sind Generics? 
-Generics sind sozusagen Platzhalter für Datentypen. Kurz gesagt kann man damit doppelten code verhindern.
+Generics sind sozusagen Platzhalter für jegliche Datentypen. Kurz gesagt kann man damit doppelten code verhindern.
 Generics in Verwendung:
 Um nun Gebrauch davon zu machen, verwendet man keine speziellen Datentypen sondern einfach ein Wort oder auch einfach 
 einen Buchstaben; hier zum Beispiel ein ‚T‘. 
@@ -41,7 +41,8 @@ public class GenericQueue<T>{
 
 }
 ```
-Da Generics beim Compilieren noch nicht weiß, um welchen Typ es sich handelt, kann es also Fehler zur Laufzeit geben (--> RunTimeExceptions).
+
+Nicht nur Klassen sondern auch Methoden können mit Generics erstellt werden.
 	 
 ###Was ist eine Code Coverage bei Source Code Tests?
 Die Code Coverage gibt an, wie viel Prozent des Source Codes automatisch getestet werden. 
