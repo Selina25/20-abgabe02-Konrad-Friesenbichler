@@ -29,5 +29,5 @@ shows the tasks we are planning to do in the course of our project:
   - [x] add manual content
   - [x] add code-snippets/images
   - [x] add additional manual content (optional)
-- [ ] Finish Lab-Report
+- [x] Finish Lab-Report
  
