@@ -1,6 +1,6 @@
 ###Was ist eine Queue? 
 ---
-Die Queue (deusch: Warteschlange) ist eine der vier bekanntesten Datenstrukturen (Array, Linked List, Stack und Queue).
+Die Queue (deutsch: Warteschlange) ist eine der vier bekanntesten Datenstrukturen (Array, Linked List, Stack und Queue).
 Sie arbeitet nach dem Fifo-Prinzip (First in- First out) und erlaubt daher nur das Entfernen des ersten Elements und das Hinzufügen eines Elements 
 ganz hinten an der Liste. Ich kenne daher immer nur den Anfang und das Ende einer Liste, denn dort habe ich meine Pointer. 
 Die elementaren Methoden einer Queue sind daher:  
